@@ -1,10 +1,10 @@
 [[Force]]
 
-[[Hobby/Erwachen/Guile|Guile]]
+[[Guile]]
 
 [[Vigil]]
 
-[[Hobby/Erwachen/Heart|Heart]]
+[[Heart]]
 
 [[Expertise]]
 ## Tags
