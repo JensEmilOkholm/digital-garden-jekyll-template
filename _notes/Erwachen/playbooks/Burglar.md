@@ -1,5 +1,3 @@
-```--- title: Burglar ---```
-
 +2 [[Expertise]]  
 +1 [[Guile]]
 

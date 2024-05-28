@@ -1,5 +1,3 @@
-```--- title: Core Attribute Score ---```
-
 [[Force]]
 
 [[Hobby/Erwachen/Guile|Guile]]

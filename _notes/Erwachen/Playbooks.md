@@ -1,5 +1,3 @@
-```--- title: Playbooks ---```
-
 [[Poacher]]
 [[Bruiser]]
 [[Heretic]]

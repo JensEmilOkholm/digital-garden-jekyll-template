@@ -1,5 +1,3 @@
-```--- title: Elf - Erwachen ---```
-
 Inner fire Threshold +1
 
 Every elf has it in themselves to traverse nature.  

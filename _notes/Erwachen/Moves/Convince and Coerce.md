@@ -1,5 +1,3 @@
-```--- title: Convince and Coerce ---```
-
 To get what you want, by verbal means.
 
 Roll+[[Guile]], if you deceive.  

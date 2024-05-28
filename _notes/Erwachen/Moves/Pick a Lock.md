@@ -1,5 +1,3 @@
-```--- title: Pick a Lock ---```
-
 Roll+Expertise
 
 If you do not have lockpicks in your equipment list, apply the following penalties:

@@ -1,5 +1,3 @@
-```--- title: Effect ---```
-
 None - What you are trying to do is impossible
 
 Limited - You have a chance to work towards your desired result, or get a lesser version of your desired result.

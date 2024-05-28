@@ -1,5 +1,3 @@
-```--- title: Perpetuate Existence ---```
-
 Cost 3 - Renown Downtime Actions.
 
 If you have at least 1 point in Professional Skill, the cost also goes down once, if you use that skill to earn your keep.

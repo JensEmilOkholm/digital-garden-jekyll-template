@@ -1,5 +1,3 @@
-```--- title: Poacher ---```
-
 +2 Vigil  
 +1 Expertise
 

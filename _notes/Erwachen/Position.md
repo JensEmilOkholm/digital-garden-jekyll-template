@@ -1,5 +1,3 @@
-```--- title: Position ---```
-
 Safe - There is no real consequence for failure.
 
 Risky - There is some form of consequence for failure, but you could salvage the outcome… You might not escape without some Damage or a flare of Inner Fire. (1-3 points).
