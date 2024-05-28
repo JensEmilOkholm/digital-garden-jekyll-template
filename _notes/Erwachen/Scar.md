@@ -1,3 +1,5 @@
+```--- title: Scar ---```
+
 Permanent scars left on your physical body. Once a scar is gained, an attribute point must be moved from one attribute to another, and the player must specify why.
 
 A player who has 3 scars and must gain another is permanently taken out of the game. This may be seen as death or otherwise irrevocably indisposed.

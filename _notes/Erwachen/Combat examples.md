@@ -1,3 +1,5 @@
+```--- title: Combat examples ---```
+
 # The Mountain Goat
 Player has a Formidability of 4. They have a sword, and they are fighting a Mountain Goat with a Formidability of 3. Since they’re ahead, they can choose to make their Position safer, from Perilous to Risky, or they can increase their own Effect from Standard to Great.
 

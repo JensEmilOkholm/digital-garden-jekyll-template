@@ -1,3 +1,5 @@
+```--- title: Skill Examples ---```
+
 # The Captain's Hat
 Dean wants to steal an iconic hat, that a local bandit called the Captain always struts around with.
 

@@ -1,3 +1,5 @@
+```--- title: Inner Fire ---```
+
 The Inner Fire you have taken in the current Phase.
 
 Upon taking your Inner Fire Threshold, you will be Runic Wounded somehow.

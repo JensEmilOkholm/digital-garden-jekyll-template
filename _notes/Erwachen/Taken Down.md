@@ -1,3 +1,5 @@
+```--- title: Taken Down ---```
+
 When you are taken down, you can take no further actions in the phase.
 
 One exception is the Last Ditch Effort Action, which you may still take, but you then become Indisposed for the rest of the Phase.

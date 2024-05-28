@@ -1,3 +1,5 @@
+```--- title: Swindler ---```
+
 +2 Guile  
 +1 Heart
 

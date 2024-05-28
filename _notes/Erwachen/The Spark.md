@@ -1,3 +1,5 @@
+```--- title: The Spark ---```
+
 *In the heart of the bold, a flame ignites, A power unseen, that fuels the fights.
 
 *Warriors strong with steel in hand, Stronger still, with the Spark at their command.*

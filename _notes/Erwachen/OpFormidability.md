@@ -1,3 +1,5 @@
+```--- title: OpFormidability ---```
+
 When players engage in violent confrontations, they compare their Formidability with that of their opponents. This means the GM must determine the Oppositions Formidability, or OPFOR. As a rule of thumb for humanoid enemies, OPFOR can be determined in a similar way that normal players determine theirs.
 
 Most opposition has a starting Formidability of 2.

@@ -1,3 +1,5 @@
+```--- title: A guide to rolling ---```
+
 When you are asked to roll+[[Core Attribute Score]], you roll 2d6 and add the value of your score.
 
 You will be given a [[Position]] and an [[Effect]]. All outcomes will be seen in light of your [[Position]] and [[Effect]].

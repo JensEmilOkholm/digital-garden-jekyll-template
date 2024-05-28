@@ -1,3 +1,5 @@
+```--- title: Deepling ---```
+
 [[Damage Threshold]] -1  
 [[Inner Fire Threshold]] +1
 

@@ -1,3 +1,5 @@
+```--- title: Human ---```
+
 +1 to Damage Threshold _or_ Inner Fire Threshold.
 
 Willpower of mortality: Once per phase, when you don't like your roll, you may reroll it. You keep the second result.

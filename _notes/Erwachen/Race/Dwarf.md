@@ -1,3 +1,5 @@
+```--- title: Dwarf ---```
+
 [[Damage Threshold]] +1  
 [[Inner fire Threshold]] -1
 

@@ -1,3 +1,5 @@
+```--- title: Help a Friend ---```
+
 When you Help a Friend, you must describe how it is possible and how you do it.
 
 You then check your level of trust towards the player in question, 0, 1, or 2. If you have:

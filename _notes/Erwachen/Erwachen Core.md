@@ -1,3 +1,5 @@
+```--- title: Erwachen Core ---```
+
 ## Erwachen Purpose
 [[Game Purpose]]
 [[Game Roots]]

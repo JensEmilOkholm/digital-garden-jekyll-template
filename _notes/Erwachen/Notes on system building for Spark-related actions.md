@@ -1,3 +1,5 @@
+```--- title: Notes on system building for Spark-related actions ---```
+
 In order to craft a system that allows for a truly customizable "spark" here are things to do:
 
 - Write basic actions for 

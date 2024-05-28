@@ -1,3 +1,5 @@
+```--- title: Formidability ---```
+
 A character’s Formidability score is used to determine their base Position and Effect when fighting. The Position and Effect can be affected circumstantially, and this can be more important than a characters Formidability, in some cases.
 
 If a character has the same Formidability as their enemy, they fight at a Perilous Position, to a Standard Effect.
