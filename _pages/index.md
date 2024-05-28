@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to Erwachen!
 
 ## Erwachen Purpose
 [[Game Purpose]]
